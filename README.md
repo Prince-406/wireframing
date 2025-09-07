@@ -15,3 +15,17 @@ Wireframing is a crucial step in the user experience (UX) and user interface (UI
 **Saves Time and Resources**: Identifying and fixing structural or usability issues at this early stage is significantly cheaper and easier than doing so during development.
 **Facilitates Clear Communication**: Serves as a common language between designers, developers, product managers, and clients, ensuring everyone is aligned on the project's direction.
 **Focuses on Usability**: By stripping away visual design, it forces a focus on user-centric design and functionality.
+
+<div align="centre">
+<strong>Key Elements of Wireframing</strong>
+</div>
+
+**A well-constructed wireframe typically includes several key elements**:
+**Layout Structure**: This is the arrangement of headers, footers, sidebars, and content areas. It defines the overall grid and spatial relationships between different components on a page.
+**Example**: A wireframe might use simple boxes to show a three-column layout for a news website (e.g., main article column, related news sidebar, navigation sidebar), ensuring a balanced and logical content hierarchy.
+**Navigation**: This element illustrates how users will move through the application. It includes menus, links, buttons, and breadcrumbs.
+**Example**: A horizontal bar at the top of a wireframe with labels like "Home," "About," "Services," and "Contact" defines the primary navigation and establishes the site's main sections.
+**Content Placement**: This involves determining the location of all content elements, including text blocks, images, videos, and headlines.
+**Example**: A wireframe might use a large box at the top of the page for a hero image, followed by a smaller box for a headline, and several lines of Lorem Ipsum text to represent a body paragraph. This ensures content is prioritized correctly.
+**Functionality**: Wireframes depict interactive elements and their behavior, such as form fields, dropdown menus, sliders, and modals.
+**Example**: A simple rectangle with the text "Enter your email..." clearly indicates a text input field. A button next to it labeled "Subscribe" shows its function, clarifying the user action.
