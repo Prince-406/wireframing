@@ -17,7 +17,7 @@ Wireframing is a crucial step in the user experience (UX) and user interface (UI
 **Focuses on Usability**: By stripping away visual design, it forces a focus on user-centric design and functionality.
 
 <div align="centre">
-<strong>Key Elements of Wireframing</strong>
+<strong>KEY ELEMENTS OF WIREFRAMING</strong>
 </div>
 
 **A well-constructed wireframe typically includes several key elements**:
@@ -29,3 +29,16 @@ Wireframing is a crucial step in the user experience (UX) and user interface (UI
 **Example**: A wireframe might use a large box at the top of the page for a hero image, followed by a smaller box for a headline, and several lines of Lorem Ipsum text to represent a body paragraph. This ensures content is prioritized correctly.
 **Functionality**: Wireframes depict interactive elements and their behavior, such as form fields, dropdown menus, sliders, and modals.
 **Example**: A simple rectangle with the text "Enter your email..." clearly indicates a text input field. A button next to it labeled "Subscribe" shows its function, clarifying the user action.
+
+<div align="centre">
+<strong>TYPES OF WIREFRAMES</strong>
+</div>
+
+**Low-Fidelity vs. High-Fidelity Wireframes**
+Wireframes can be categorized by their level of detail and realism, primarily as low-fidelity and high-fidelity.
+
+**Low-Fidelity Wireframes**
+ These are basic, rough sketches often created with paper and pencil or simple digital tools. They use simple shapes, lines, and placeholder text. They are created very early in the design process to quickly brainstorm ideas, explore different layouts, and communicate core concepts without getting bogged down in details. They are ideal for rapid iteration and team collaboration sessions.
+
+**High-Fidelity Wireframes**
+ These are more detailed and polished digital representations. They may include actual content, more accurate spacing, and sometimes even simple interactivity.They are created after low-fidelity concepts have been approved. They are used to refine the layout, test specific user interactions, and provide a clearer guide for the visual design and development phases.
