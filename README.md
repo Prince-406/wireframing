@@ -42,3 +42,18 @@ Wireframes can be categorized by their level of detail and realism, primarily as
 
 **High-Fidelity Wireframes**
  These are more detailed and polished digital representations. They may include actual content, more accurate spacing, and sometimes even simple interactivity.They are created after low-fidelity concepts have been approved. They are used to refine the layout, test specific user interactions, and provide a clearer guide for the visual design and development phases.
+
+<div align="centre">
+<strong> WIREFRAMING TOOLS</strong>
+</div>
+Figma and Miro
+
+**Figma: A Recommended Tool**
+Figma is a cloud-based design tool known for its robust collaboration features and versatility, making it an excellent choice for wireframing.
+
+**Key Features for Wireframing**:
+**Collaboration in Real-Time**: Multiple team members can work on the same wireframe simultaneously, leaving comments and feedback directly on the design.
+**Components & Libraries**: Figma allows you to create reusable UI components (e.g., buttons, headers, navigation bars), which ensures consistency and speeds up the wireframing process.
+**Prototyping**: You can easily create clickable prototypes from your wireframes to demonstrate user flows and functionality without writing any code.
+**Cross-Platform**: Being browser-based, it works on Windows, Mac, and Linux, making it accessible to everyone on the team.
+
