@@ -57,3 +57,13 @@ Figma is a cloud-based design tool known for its robust collaboration features a
 **Prototyping**: You can easily create clickable prototypes from your wireframes to demonstrate user flows and functionality without writing any code.
 **Cross-Platform**: Being browser-based, it works on Windows, Mac, and Linux, making it accessible to everyone on the team.
 
+<div align="centre">
+<strong>BENEFITS OF WIREFRAMING IN SOFTWARE DEVELOPMENT</strong>
+</div>
+From a software development perspective, wireframing is an invaluable practice that bridges the gap between initial concept and functional code. Here is a list of benefits ;
+
+**Guides Development**: Wireframes act as a visual specification for developers. They provide a clear, unambiguous plan for the UI's structure and functionality, reducing guesswork and potential rework during the coding phase.
+**Facilitates Communication**: They serve as a central point of discussion for the entire team (product managers, designers, developers, QA testers). For example, a wireframe can help a developer understand exactly how a dropdown menu should behave, preventing misunderstandings.
+**Clarifies Requirements**: By visualizing features early on, wireframes help identify ambiguous or missing requirements. A product manager might look at a wireframe and realize a crucial user action button is missing, allowing them to add it before any code is written.
+**Improves Efficiency**: When developers have a clear blueprint to follow, they can code more efficiently and accurately, leading to a faster and more predictable development cycle.
+
